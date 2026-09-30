@@ -2,7 +2,9 @@
   "username": "Karelisio",
   "excludeForks": true,
   "excludeArchived": true,
-  "excludeRepos": [],
+  "excludeRepos": [
+    "Karelisio.github.io"
+  ],
   "maxReleasesPerRepo": 15,
   "timelineSize": 10,
   "accentColor": "#7C5CFF",
